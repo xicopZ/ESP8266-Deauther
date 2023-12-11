@@ -1,4 +1,4 @@
-### ESP8266-Deauther
+# ESP8266-Deauther
 
 ## Parts You Will Need:
 1) NODEMCU ESP8266 Board
@@ -10,12 +10,12 @@
    
 ## Full Tutorial
 1) Create the circuit as shown on the schematic. Here is a text representation of the connections:
-# Display
+### Display
 SDA + D1
 SCL + D2
 GND + GND
 VCC + 3V3
-# Switches
+### Switches
 OK + CLK
 DOWN + D5
 UP + D3
